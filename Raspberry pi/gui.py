@@ -1,6 +1,11 @@
 ﻿# -*- coding : Utf-8 -*-
 #!/usr/bin/python
 
+# [FR] Interface graphique basique. Affiche la date, l'heure et la temperature.
+# [EN] Basic GUI. Show date, time and the temperature.
+
+# [FR] tkinter en plein écran (alt+F4 pour fermer). / [EN] tkinter in fullscreen (alt+F4 for closing).
+
 try:
 	import tkinter as Tkinter
 except:
