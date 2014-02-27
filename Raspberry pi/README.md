@@ -1,4 +1,4 @@
-# [FR] Tâche cron / [EN] cron job
+### [FR] Tâche cron / [EN] cron job
 
 ( => crontab -e )
 
@@ -6,7 +6,7 @@
 
 ( => chmod a+x temperature.py )
 
-# [FR] Besoin aussi de ça / [EN] Need this
+### [FR] Besoin aussi de ça / [EN] Need this
 
 sudo modprobe w1-gpio
 sudo modprobe w1-therm
