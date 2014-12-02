@@ -1,7 +1,7 @@
 TemperatureLogger
 =================
 
-A simple temperature logger for Raspberry Pi & DS18B20
+A simple temperature logger for Raspberry Pi & multiple DS18B20
 
-This project is using sqlite as database, python for the raspberry pi side, and html/php for the server side.
+This project use python on raspberry pi side, sqlite as database and html5/js/php on server side.
 
